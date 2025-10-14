@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I’m Anurag Pathak 👋  
+*(aka [pathakanu](https://github.com/pathakanu))*
 
-<!--
-**pathakanu/pathakanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
+I’m a software engineer passionate about **backend systems, blockchain, and automation**.  
+I love building things that scale — from REST APIs to decentralized apps — and enjoy learning by creating.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Currently working on **AI evaluation frameworks**, **load balancers**, and **automation bots**  
+- 🔭 Exploring **LLM Evaluation (RAG-LLM_Evaluation)** and **smart contracts (TFTToken, Faucet-Dapp)**  
+- ⚙️ Skilled in **Go**, **Python**, **JavaScript**, **Solidity**  
+- 🌱 Learning advanced **system design** and **LLM integrations**  
+- 💬 Ask me about: API design, blockchain development, bots, or backend architecture  
+
+---
+
+## 🧰 Tech Stack  
+**Languages:** Go · Python · JavaScript · Solidity  
+**Frameworks & Tools:** Node.js · Playwright · Docker · GitHub Actions · Web3.js  
+**Domains:** Backend Development · Blockchain · Automation · AI Evaluation
+
+---
+
+## 🧩 Featured Projects  
+| Project | Description |
+|----------|--------------|
+| [loadbalancer](https://github.com/pathakanu/loadbalancer) | Go-based load balancing system for distributed services |
+| [student-api](https://github.com/pathakanu/student-api) | REST API for student data management |
+| [Rag-LLM_Evaluation](https://github.com/pathakanu/Rag-LLM_Evaluation) | Framework for retrieval-augmented generation model evaluation |
+| [bewakoof_playwright](https://github.com/pathakanu/bewakoof_playwright) | Playwright-based testing and automation suite |
+| [TFTChad](https://github.com/pathakanu/TFTChad) | AI-powered chatbot assistant |
+| [ReBot](https://github.com/pathakanu/ReBot) | Python-based automation bot |
+
+---
+
+## 🏅 Achievements & Badges  
+
+![GitHub followers](https://img.shields.io/github/followers/pathakanu?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/pathakanu?style=social)
+![Top Langs](https://img.shields.io/github/languages/top/pathakanu?color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/pathakanu/loadbalancer)
+![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-blue)
+![Blockchain Developer](https://img.shields.io/badge/Blockchain-Dev-green)
+![Automation Enthusiast](https://img.shields.io/badge/Automation-❤️-yellow)
+
+---
+
+## 📊 GitHub Stats  
+
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pathakanu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathakanu&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🐦 [Twitter / X](https://twitter.com/your-handle)  
+- 📧 pathakanu@example.com  
+
+---
+
+> “Building one project at a time, learning one system deeper at a time.”
