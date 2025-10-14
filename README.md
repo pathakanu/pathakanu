@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me  
 I’m a software engineer passionate about **backend systems, blockchain, and automation**.  
-I love building things that scale — from REST APIs to decentralized apps — and enjoy learning by creating.  
+I love building things that scale — from REST APIs, GraphQL, gRPC to decentralized apps — and enjoy learning by creating.  
 
 - 🧠 Currently working on **AI evaluation frameworks**, **load balancers**, and **automation bots**  
 - 🔭 Exploring **LLM Evaluation (RAG-LLM_Evaluation)** and **smart contracts (TFTToken, Faucet-Dapp)**  
