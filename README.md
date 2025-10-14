@@ -56,7 +56,7 @@ I love building things that scale — from REST APIs, GraphQL, gRPC to decentral
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anurag-pathak-02836317b/)  
 - 🐦 [Twitter / X](https://x.com/lookatanurag)  
-- 📧 pathakanu@example.com  
+- 📧 anuragpathak54@gmail.com 
 
 ---
 
