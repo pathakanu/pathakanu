@@ -4,60 +4,52 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a software engineer passionate about **backend systems, blockchain, and automation**.  
-I love building things that scale — from REST APIs, GraphQL, gRPC to decentralized apps — and enjoy learning by creating.  
+I’m a software engineer with professional experience in **automation testing**, **backend systems**, and **blockchain development**.  
+I love solving real-world problems through clean, scalable code — whether it’s building decentralized apps, LLM evaluation frameworks, or API backends.
 
-- 🧠 Currently working on **AI evaluation frameworks**, **load balancers**, and **automation bots**  
-- 🔭 Exploring **LLM Evaluation (RAG-LLM_Evaluation)** and **smart contracts (TFTToken, Faucet-Dapp)**  
-- ⚙️ Skilled in **Go**, **Python**, **JavaScript**, **Solidity**  
-- 🌱 Learning advanced **system design** and **LLM integrations**  
-- 💬 Ask me about: API design, blockchain development, bots, or backend architecture  
+My journey began in **corporate QA automation**, where I worked extensively on test frameworks, API validation, and regression automation using **Playwright**, **WebDriverIO**, **Selenium**, and **CI/CD pipelines**.  
+That background taught me to engineer for reliability and performance — skills I now apply in backend and blockchain development.
 
 ---
 
-## 🧰 Tech Stack  
+## ⚙️ Tech Stack  
 **Languages:** Go · Python · JavaScript · Solidity  
-**Frameworks & Tools:** Node.js · Playwright · Docker · GitHub Actions · Web3.js  
-**Domains:** Backend Development · Blockchain · Automation · AI Evaluation
+**Frameworks & Tools:** Fiber · Docker · Playwright · WebDriverIO · GitHub Actions · PostgreSQL  
+**Domains:** Backend · Blockchain · Automation · AI Evaluation · MLOps
 
 ---
 
 ## 🧩 Featured Projects  
 | Project | Description |
 |----------|--------------|
-| [loadbalancer](https://github.com/pathakanu/loadbalancer) | Go-based load balancing system for distributed services |
-| [student-api](https://github.com/pathakanu/student-api) | REST API for student data management |
-| [Rag-LLM_Evaluation](https://github.com/pathakanu/Rag-LLM_Evaluation) | Framework for retrieval-augmented generation model evaluation |
-| [bewakoof_playwright](https://github.com/pathakanu/bewakoof_playwright) | Playwright-based testing and automation suite |
-| [TFTChad](https://github.com/pathakanu/TFTChad) | AI-powered chatbot assistant |
-| [ReBot](https://github.com/pathakanu/ReBot) | Python-based automation bot |
+| [prod-ready-loadbalancer-multiple-backend-server](https://github.com/pathakanu/prod-ready-loadbalancer-multiple-backend-server) | Production-ready Go load balancer handling multiple backends |
+| [go_postgres_fiber](https://github.com/pathakanu/go_postgres_fiber) | REST API built with Go, Fiber, and PostgreSQL |
+| [Electricity_Demand_Forecasting_POC](https://github.com/pathakanu/Electricity_Demand_Forecasting_POC) | ML-based electricity demand forecasting proof of concept |
+| [document_summary](https://github.com/pathakanu/document_summary) | AI-based summarization of long-form text documents |
+| [cp-cs](https://github.com/pathakanu/cp-cs) | Competitive programming and algorithmic problem repository |
+| [RAG-LLM_Evaluation](https://github.com/pathakanu/Rag-LLM_Evaluation) | Framework for evaluating retrieval-augmented generation models |
+| [TFTToken / Faucet-Dapp](https://github.com/pathakanu/Faucet-Dapp-TFTToken) | Smart contract and blockchain token utilities |
+| [bewakoof_playwright](https://github.com/pathakanu/bewakoof_playwright) | Playwright-based automation and testing suite |
+| [student-api](https://github.com/pathakanu/student-api) | REST/GraphQL API for managing student data |
+| [loadbalancer](https://github.com/pathakanu/loadbalancer) | Scalable Go-based load balancing system |
 
 ---
 
 ## 🏅 Achievements & Badges  
-
 ![GitHub followers](https://img.shields.io/github/followers/pathakanu?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/pathakanu?style=social)
 ![Top Langs](https://img.shields.io/github/languages/top/pathakanu?color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/pathakanu/loadbalancer)
 ![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-blue)
-![Blockchain Developer](https://img.shields.io/badge/Blockchain-Dev-green)
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-❤️-yellow)
-
----
-
-## 📊 GitHub Stats  
-
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pathakanu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathakanu&layout=compact&theme=tokyonight)
+![Blockchain Developer](https://img.shields.io/badge/Blockchain-Dev-green)
 
 ---
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anurag-pathak-02836317b/)  
-- 🐦 [Twitter / X](https://x.com/lookatanurag)  
-- 📧 anuragpathak54@gmail.com 
+- 🌐 [GitHub](https://github.com/pathakanu)  
+- 📧 anuragpathak@example.com  
 
 ---
 
-> “Building one project at a time, learning one system deeper at a time.”
+> *“Engineering solutions that bridge automation, intelligence, and decentralization.”*
