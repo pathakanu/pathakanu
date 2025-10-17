@@ -42,13 +42,14 @@ That background taught me to engineer for reliability and performance — skills
 ![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-blue)
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-❤️-yellow)
 ![Blockchain Developer](https://img.shields.io/badge/Blockchain-Dev-green)
-![Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/api/achievements/share/en-us/AnuragPathak-1948/9YEMFFJU?sharingId=A725506F6F904506)
+
+[![Azure AI Foundry Certification](https://learn.microsoft.com/api/achievements/share/en-us/AnuragPathak-1948/9YEMFFJU?sharingId=A725506F6F904506)](https://learn.microsoft.com/api/achievements/share/en-us/AnuragPathak-1948/9YEMFFJU?sharingId=A725506F6F904506)
 ---
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anurag-pathak-02836317b/)  
 - 🌐 [GitHub](https://github.com/pathakanu)  
-- 📧 anuragpathak@example.com  
+- 📧 anuragpathak54@gmail.com  
 
 ---
 
