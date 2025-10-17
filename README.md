@@ -36,6 +36,7 @@ That background taught me to engineer for reliability and performance — skills
 ---
 
 ## 🏅 Achievements & Badges  
+![Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/api/achievements/share/en-us/AnuragPathak-1948/9YEMFFJU?sharingId=A725506F6F904506)
 ![GitHub followers](https://img.shields.io/github/followers/pathakanu?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/pathakanu?style=social)
 ![Top Langs](https://img.shields.io/github/languages/top/pathakanu?color=blue)
